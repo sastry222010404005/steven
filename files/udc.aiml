@@ -8,9 +8,9 @@
     <pattern> ok steven which is the hottest travel destination?</pattern>
     <template> currently nanital is the hottest or coldest destination i say ha ha ha .</template>
     <pattern> how much is the hotel cost? </pattern>
-    <template> 3,465 rupees for single 3 star bedroom .</template>
+    <template> 3,465 rupees for single 3 star bedroom at www.trivago.com .</template>
     <pattern> Is there any cheaper hotels? </pattern>
-    <template> well there is at 1,333 rupees at maa durga hotel .</template>
+    <template> well there is at 1,333 rupees at maa durga hotel in www.oyo.com .</template>
     <pattern> well book me this hotel </pattern>
     <template> ok .</template>
     <pattern> is there any sights to see </pattern>
