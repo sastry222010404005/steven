@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>Hi steven</pattern>
+    <template>hello mate i'm steven the travel guide .</template>
+    <pattern>please call me sastry  </pattern>
+    <template>ok sastry .</template>
+    <pattern> ok steven which is the hottest travel destination?</pattern>
+    <template> currently nanital is the hottest or coldest destination i say ha ha ha .</template>
+    <pattern> how much is the hotel cost? </pattern>
+    <template> 3,465 rupees for single 3 star bedroom .</template>
+    <pattern> Is there any cheaper hotels? </pattern>
+    <template> well there is at 1,333 rupees at maa durga hotel .</template>
+    <pattern> well book me this hotel </pattern>
+    <template> ok .</template>
+    <pattern> is there any sights to see </pattern>
+    <template> glad you asked there is the magestic nanital lake,snow view point,eco cave gardens etc .</template>
+    <pattern> book  me a cab steven ok? </pattern>
+    <template> ok make sure you buy essentials like sweaters,like ready to eat meals and jackets and an umberalla i heard it's raining in nanital .</template>
+    <pattern> thanks steven </pattern>
+    <template> no problem mate I mean sastry .</template>
+    
+  </category>
+</aiml>
